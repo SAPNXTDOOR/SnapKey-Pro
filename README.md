@@ -4,8 +4,6 @@
 
 
 
-<img width="1584" height="675" alt="355948635-e9a23ba9-d394-4711-abfc-994932605d86" src="https://github.com/user-attachments/assets/d3d4ac8a-d79f-498d-8e60-ac6ce6b325e1" />
-
 
 **About SnapKey** 
 --------------------------------------------------------------------------------------------------
@@ -34,12 +32,13 @@ SnapKey is a lightweight, open-source tool that operates from the system tray an
 - Facilitates smoother transitions between left and right movements without input conflicts 🚀
 - Does not use AutoHotkey or similar tools; its features rely solely on Windows API functions 🛡️
 
-**SnapKey in Action**
+**SnapKey Pro in Action**
 --------------------------------------------------------------------------------------------------
 - When you press and hold down the **"A"** key, SnapKey remembers it.
 - If you then press the **"D"** key while still holding down **"A"** SnapKey automatically releases the **"A"** key for you.
 - The same happens if you press **"A"** while holding **"D"** — SnapKey releases the **"D"** key.
-
+- When you press Left Click to shoot. your movement kees become inactive, to stop you from moving while firing, thus increasing accuracy.
+  
 **SnapKey prevents simultaneous movement key conflicts (AD / WS)**
 
 - In many FPS games, pressing both the **"A"** and **"D"** keys simultaneously typically results in the game recognizing conflicting inputs. SnapKey automatically releases the previously held key when a new key input is detected.
@@ -52,6 +51,8 @@ hold down the **"A"** key and tap the **"D"** key repeatedly, each press of **"D
 the **"A"** key. When you release the **"D"** key, the action associated with the **"A"** key will resume, as 
 long as you're still holding it down. The same principle applies if you start with **"D"** held down and 
 press **"A"** instead.
+- Same goes for the Left Click as well. When any movement key is pressed down and Left Click is pressed, each click overrides the movement key. When you release the Left Click, the movement keys will resume, as 
+long as you're still holding it down.
 
 > [!NOTE]
 > SnapKey and similar solutions have been disallowed in certain games; illustrations shown are for demonstrative purposes only.
