@@ -1,4 +1,7 @@
-[![testsnap](https://github.com/user-attachments/assets/e9a23ba9-d394-4711-abfc-994932605d86)](https://github.com/cafali/SnapKey/releases)
+[![testsnap](<img width="1584" height="675" alt="355948635-e9a23ba9-d394-4711-abfc-994932605d86" src="https://github.com/user-attachments/assets/d3d4ac8a-d79f-498d-8e60-ac6ce6b325e1" />)](https://github.com/cafali/SnapKey/releases)
+
+<img width="1584" height="675" alt="355948635-e9a23ba9-d394-4711-abfc-994932605d86" src="https://github.com/user-attachments/assets/d3d4ac8a-d79f-498d-8e60-ac6ce6b325e1" />
+
 
 **About SnapKey** 
 --------------------------------------------------------------------------------------------------
