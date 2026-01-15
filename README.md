@@ -68,7 +68,7 @@ long as you're still holding it down.
 
 
 <p align="center">
-  SnapKey by
+  SnapKey Pro by
 </p>
 
 <p align="center">
