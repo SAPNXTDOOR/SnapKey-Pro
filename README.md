@@ -5,7 +5,6 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/github/stars/SAPNXTDOOR/SnapKey-Pro?style=flat-square">
   <img src="https://img.shields.io/github/downloads/SAPNXTDOOR/SnapKey-Pro/total?style=flat-square">
   <img src="https://img.shields.io/github/license/SAPNXTDOOR/SnapKey-Pro?style=flat-square">
 </p>
