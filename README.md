@@ -9,12 +9,6 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SAPNXTDOOR/SnapKey-Pro/releases">
-    <img src="https://img.shields.io/badge/Download-SnapKey%20Pro-2ea44f?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/github/downloads/SAPNXTDOOR/SnapKey-Pro/total?style=flat-square">
   <img src="https://img.shields.io/github/license/SAPNXTDOOR/SnapKey-Pro?style=flat-square">
 </p>
