@@ -1,4 +1,4 @@
-[![testsnap](https://github.com/SAPNXTDOOR/SnapKey-Pro/blob/main/banner.png)](https://github.com/SAPNXTDOOR/SnapKey-Pro/releases)
+[![testsnap](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)
 
 
 
@@ -12,7 +12,7 @@ SnapKey provides a user-friendly alternative to the Razer Snap Tap function, mak
 SnapKey is a lightweight, open-source tool that operates from the system tray and is designed to track inputs from the WASD keys, without interfering with any game files. Its main role is to recognize when these keys are pressed and automatically release any previously engaged commands for them. This guarantees responsive and precise input handling. SnapKey handles the WASD keys by default and lets you rebind them to your liking via the config file.
 
 
-[![COMPATIBLE](https://github.com/user-attachments/assets/069a7a23-cfe4-47eb-8ac2-05872fcc2028)](https://github.com/cafali/SnapKey/wiki/Compatibility-List)
+[![COMPATIBLE](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)
 
 
 
@@ -57,13 +57,13 @@ long as you're still holding it down.
 > [!NOTE]
 > SnapKey and similar solutions have been disallowed in certain games; illustrations shown are for demonstrative purposes only.
 
-![Snapkey](https://github.com/user-attachments/assets/504ffa5e-50d3-4a77-9016-70f22d143cb1)
+![Snapkey](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)
 
 **Enhanced precision of counter-strafing**
 
 - Automatically releases a previously held key when a new key (A/D) & (W/S) is pressed.
 
-<img src="https://github.com/user-attachments/assets/4453aba4-b9bc-45e8-8a80-80caad39347b" width="600" height="338" alt="STRAFE">
+<img src="https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip" width="600" height="338" alt="STRAFE">
 
 
 
@@ -72,5 +72,5 @@ long as you're still holding it down.
 </p>
 
 <p align="center">
-  <a href="https://github.com/SAPNXTDOOR">@SAPNXTDOOR</a> 
+  <a href="https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip">@SAPNXTDOOR</a> 
 </p>
