@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png">
+  <img src="https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/banner.png">
 </p>
 
 <h1 align="center">SnapKey Pro</h1>
