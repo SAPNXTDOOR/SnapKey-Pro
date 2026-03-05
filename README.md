@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="assets/banner.png">
+</p>
+
+<h1 align="center">SnapKey Pro</h1>
+
+<p align="center">
+A lightweight Snap Tap alternative for all keyboards.
+</p>
+
 # SnapKey Pro
 
 SnapKey Pro provides a user-friendly alternative to the **Razer Snap Tap** feature, making it accessible on **any keyboard**.
