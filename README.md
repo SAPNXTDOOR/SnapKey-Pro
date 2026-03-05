@@ -1,10 +1,3 @@
-[![testsnap](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)](https://raw.githubusercontent.com/SAPNXTDOOR/SnapKey-Pro/main/SnapKey Pro v1.4.1/Key_Pro_Snap_v1.2.zip)
-
-
-
-
-
-
 **About SnapKey** 
 --------------------------------------------------------------------------------------------------
 SnapKey provides a user-friendly alternative to the Razer Snap Tap function, making it accessible across all keyboards!
