@@ -127,7 +127,7 @@ toggle_socd_x=Ctrl+L
 toggle_socd_y=Ctrl+Shift+1
 toggle_mouse_override=F13
 toggle_mouse_override_x=Alt+F14
-toggle_mouse_override_y=Ctrl+Alt+F15
+toggle_mouse_override_y=MouseX2
 ```
 
 Supported keys:
@@ -139,6 +139,11 @@ Supported keys:
 * Alt
 * Shift
 * Win
+* MouseLeft
+* MouseRight
+* MouseMiddle
+* MouseX1
+* MouseX2
 
 Hotkeys can combine multiple modifiers:
 
